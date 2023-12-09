@@ -15,6 +15,12 @@
   <a href="https://www.youtube.com/channel/UCKqFORx5W1wTKQtWtKX-iVQ" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   </a>
+    <a href="mailto://gtanu848@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://www.hackerrank.com/profile/gtanu848" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
+  </a>
 </div>
 
 ###
@@ -52,6 +58,5 @@
 </div>
 
 
-
-
 ###
+
